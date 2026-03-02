@@ -2,5 +2,6 @@
   "name": "Tether USD",
   "symbol": "USDT",
   "decimals": 6,
-  "logo": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  "logo": "https://raw.githubusercontent.com/prefeitonetwork-cmd/token-metadata/refs/heads/main/logo.png"
 }
+
